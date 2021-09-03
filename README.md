@@ -1,16 +1,28 @@
-# todoapp
+# BreakingBadApi
 
-A new Flutter project.
+About Serial BreakingBad and persons who act this 
 
-## Getting Started
+### Authentication with Phone and SMS:
+<a href="https://ibb.co/zHzRDFg"><img src="https://i.ibb.co/YTxkwXS/photo-2021-09-03-16-38-41.jpg" alt="photo-2021-09-03-16-38-41" border="0" width="250"></a>
+<a href="https://ibb.co/TkWZDFf"><img src="https://i.ibb.co/R9j1GVF/photo-2021-09-03-16-38-40.jpg" alt="photo-2021-09-03-16-38-40" border="0" width="250"></a>
 
-This project is a starting point for a Flutter application.
+### Entering part of body project:
+<a href="https://ibb.co/VxGJPLn"><img src="https://i.ibb.co/xYbXR29/photo-2021-09-03-16-38-40-2.jpg" alt="photo-2021-09-03-16-38-40-2" border="0" width="250"></a>
 
-A few resources to get you started if this is your first Flutter project:
+### When you tap on actors it will be shown short Wikipedia:
+<a href="https://ibb.co/wNpMV7W"><img src="https://i.ibb.co/HDGn6Cz/photo-2021-09-03-16-38-38.jpg" alt="photo-2021-09-03-16-38-38" border="0" width="250"></a>
+<a href="https://ibb.co/ZYmkDqy"><img src="https://i.ibb.co/GtTbSzg/photo-2021-09-03-16-38-39.jpg" alt="photo-2021-09-03-16-38-39" border="0" width="250"></a>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### And also has comment page:
+<a href="https://ibb.co/CKQzm8Q"><img src="https://i.ibb.co/ZzxVGXx/photo-2021-09-03-16-38-39-2.jpg" alt="photo-2021-09-03-16-38-39-2" border="0" width="250"></a>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Packages in this application:
+#### cupertino_icons: ^1.0.2
+#### firebase_core: ^1.6.0
+#### firebase_auth: ^3.1.0
+#### firebase: ^9.0.1
+#### cloud_firestore: ^2.5.1
+#### flutter_spinkit: ^5.0.0
+#### comment_box: ^0.0.16
+#### animated_text_kit: ^4.2.1
+
